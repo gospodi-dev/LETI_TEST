@@ -110,3 +110,12 @@ print(a)
 example_list = ['hello', 1, 2, ['world', '!']]
 print(example_list[0][0])
 print(example_list[3][0][2])
+
+# Проверка на равенство
+[1, 2] > [2, 1] # False
+# Проверка на вхождение
+[1] in [1, 2, 3] # False
+
+
+
+
